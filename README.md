@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am a recent Software Engineer graduate based in the San Francisco Bay Area and I am passionate about learning new technologies.
 
 - Check out my portfolio for a more detailed view of my projects
-- Stay updated on my LinkedIn and Instagram
+- Stay updated on my [LinkedIn](http://linkedin.com/in/paul-junver-soriano) and [Instagram](https://www.instagram.com/paulsorianox/)
 
 ## 🔍 Current Endeavors
 I am currently looking for opportunities to work as a backend software engineer. My current journey involves building and learning, specifically:
