@@ -22,8 +22,7 @@ I am a recent Software Engineer graduate based in the San Francisco Bay Area and
 
 ## 🔍 Current Endeavors
 I am currently looking for opportunities to work as a backend software engineer. My current journey involves building and learning, specifically:
-- I am engaged in backend projects with a working frontend
-- I am exploring Javascript, Node.js, and Express.js to expand my skill set
+- I am exploring data analytics to expand my skill set
 - I am incorporating reading into my daily goals. I am currently reading "Between Two Kingdoms" by Suleika Jaouad
 
 ## 🌸 Fun Facts
