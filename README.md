@@ -21,7 +21,7 @@ I am a recent Software Engineer graduate based in the San Francisco Bay Area and
 - Stay updated on my [LinkedIn](http://linkedin.com/in/paul-junver-soriano) and [Instagram](https://www.instagram.com/paulsorianox/)
 
 ## 🔍 Current Endeavors
-I am currently looking for opportunities to work as a backend software engineer. My current journey involves building and learning, specifically:
+I am currently looking for opportunities to work as a data professional. My current journey involves building and learning, specifically:
 - I am exploring data analytics to expand my skill set
 - I am incorporating reading into my daily goals. I am currently reading "Between Two Kingdoms" by Suleika Jaouad
 
